@@ -1,23 +1,19 @@
 Permissions scripts
-1- Script that switches the current user to the user betty.
-2- Script that prints all the groups the current user is part of
-3- Script that changes the owner of the file hello to the user betty.
-4- Script that creates an empty file called hello.
-5- Script that adds execute permission to the owner of the file hello.
-6- Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-7- Script that adds execution permission to the owner, the group owner and the other users, to the file hello
-8- Script that sets the permission to the file hello as follows:
-    Owner: no permission at all
-    Group: no permission at all
-    Other users: all the permissions
-9- Script that sets the mode of the file hello to this:
-   -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
-10- Script that sets the mode of the file hello the same as s mode.olleh
-11- Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
-12- Script that creates a directory called my_dir with permissions 751 in the working directory.
-13- Script that changes the group owner to school for the file hello
-14- Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-15- Script that changes the owner and the group owner of _hello to vincent and staff respectively.
-16- Script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
+1- Script that displays a confused smiley "(Ôo)'.
+2- Script that displays the content of the /etc/passwd file.
+3- Script that displays the content of /etc/passwd and /etc/hosts
+4- Script that displays the last 10 lines of /etc/passwd.
+5- Script that displays the first 10 lines of /etc/passwd
+6- Script that displays Write a script that displays the third line of the file iacta.
+7- Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+8- Script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
+9- Script that duplicates the last line of the file iacta
+10- Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11- Script that counts the number of directories and sub-directories in the current directory.
+12- Script that displays the 10 newest files in the current directory.
+13- Script that takes a list of words as input and prints only words that appear exactly once.
+14- Script that displays lines containing the pattern “root” from the file /etc/passwd.
+15- Script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
+16- Script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 	    
