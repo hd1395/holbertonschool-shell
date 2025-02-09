@@ -1,0 +1,7 @@
+.
+./abc
+./abc/def
+./abc/def/fgh
+./test
+./test/test1
+./test/test1/tes2
