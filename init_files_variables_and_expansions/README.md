@@ -11,13 +11,10 @@ Permissions scripts
     Name: BEST
     Value: School
 8- Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
-9- Script that duplicates the last line of the file iacta
-10- Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
-11- Script that counts the number of directories and sub-directories in the current directory.
-12- Script that displays the 10 newest files in the current directory.
-13- Script that takes a list of words as input and prints only words that appear exactly once.
-14- Script that displays lines containing the pattern “root” from the file /etc/passwd.
-15- Script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
-16- Script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
-
+9- Script that prints the result of POWER divided by DIVIDE, followed by a new line.
+10- Script that displays the result of BREATH to the power LOVE.
+11- Script that converts a number from base 2 to base 10.
+12- Script that prints all possible combinations of two letters, except oo
+13- Script that prints a number with two decimal places, followed by a new line.
+14- Script that converts a number from base 10 to base 16
 	    
